@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GridViewer
+public class Viewer
 {
      public static void view(int[] [] grid)
     {
