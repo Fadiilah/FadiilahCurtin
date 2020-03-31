@@ -15,19 +15,19 @@ public class Viewer
                         break;
                         
                     case Maze.WALL:
-                        System.out.print("##");
+                        System.out.print("LOL");
                         break;
                         
                     case Maze.START:
-                        System.out.print("^^");
+                        System.out.print("MHA");
                         break;
                         
                     case Maze.END:
-                        System.out.print("$$");
+                        System.out.print("BLA");
                         break;
                         
                     case Maze.VISITED:
-                        System.out.print("..");
+                        System.out.print("BABS");
                         break;
                         
                     default:
