@@ -23,7 +23,7 @@ public class Viewer
                         break;
                         
                     case Maze.END:
-                        System.out.print("BLA");
+                        System.out.print("TPN");
                         break;
                         
                     case Maze.VISITED:
